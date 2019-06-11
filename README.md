@@ -1,6 +1,7 @@
 # opencv
 opencv工具类
 
+[![](https://www.jitpack.io/v/HerbLee1218/opencv.svg)](https://www.jitpack.io/#HerbLee1218/opencv)
 
 
 
